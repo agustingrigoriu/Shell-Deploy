@@ -1,6 +1,8 @@
 # README
 
-## Instructions
+The idea of this project is to create a very easy-to-use script that allows us to quickly deploy our projects on any server.
+
+## Instructions of use
 
 To start using this, execute the *deploy.sh* that is inside the *deploy* folder. It receives three parameters, and one of them is optional:
 
